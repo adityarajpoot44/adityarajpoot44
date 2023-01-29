@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Rajpoot</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="300" border-radius="10px" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif">
+<img align="right" width="300"  src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar44&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar44" /> </p>
