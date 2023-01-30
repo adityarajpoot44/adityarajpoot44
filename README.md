@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Rajpoot</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="300"  src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif">
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar44&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar44" /> </p>
@@ -14,6 +14,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/adityakumar44/](https://github.com/adityakumar44/)
 
 - 📫 How to reach me **adityakumar8279gmail.com**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
