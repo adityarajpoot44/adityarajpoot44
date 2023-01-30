@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adityakumar44/](https://github.com/adityakumar44/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/adityakumar44/)
 
 - 📫 How to reach me **adityakumar8279gmail.com**
 
