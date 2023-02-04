@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Rajpoot</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p> <img align="right" src="https://github.com/adityakumar44/adityakumar44/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.gif" width = 50vh></p>
+
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
