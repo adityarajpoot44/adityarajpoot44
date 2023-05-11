@@ -1,6 +1,6 @@
 <p> <img align="right" src="https://github.com/adityakumar44/adityakumar44/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.gif" width = 50vh></p>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/adityakumar44/adityakumar44/blob/main/programming.svg" width = 250px></picture>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar44&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar44" /> </p>
