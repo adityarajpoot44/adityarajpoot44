@@ -21,7 +21,7 @@
 <a href="https://twitter.com/adityar_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityar_44" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-rajpoot44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-rajpoot44" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adityakumar44" target="blank"><img align="center" src="https://github.com/adityakumar44/adityakumar44/blob/main/icons8-codechef-ios-16-filled-120.png" alt="adityakumar44" height="40" width="40" /></a>
-  <a href="https://leetcode.com/adityakumar44/" target="blank"><img align="center" src="https://github.com/adityakumar44/adityakumar44/blob/main/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="adityakumar44" height="40" width="40" /></a>
+  <a href="https://leetcode.com/adityakumar44/" target="blank"><img align="center" src="https://github.com/adityakumar44/adityakumar44/blob/main/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="adityakumar44" height="35" width="35" /></a>
 </p>
 </p>
 
