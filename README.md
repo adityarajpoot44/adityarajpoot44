@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar44&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar44" /> </p>
 
 
-- 🔭 I’m currently working on [Expenses Dashboard](https://github.com/adityarajpoot44/Frontend2.git)
+- 🔭 I’m currently working on [Shopping website](https://github.com/adityarajpoot44/Frontend2.git)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js & DSA**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/adityarajpoot44/)
 
