@@ -39,6 +39,4 @@
 
 ![Aditya GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=adityarajpoot44&theme=tokyonight)
 
-### 📈 GitHub History
-![Snake animation](https://github.com/adityarajpoot44/adityarajpoot44/blob/output/github-contribution-grid-snake.svg)
 
