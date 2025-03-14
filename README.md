@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Real State Website](https://github.com/adityarajpoot44/Real_State.git)
 
-- 🌱 I’m currently learning **React js & DSA**
+- 🌱 I’m currently learning **Node js & DSA**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/adityarajpoot44/)
 
